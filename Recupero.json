@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "La Pergola",
+    "città": "Roma",
+    "stelle": 3,
+    "cucina": ["mediterranea", "creativa"],
+    "prezzo": 250
+  },
+  {
+    "nome": "Osteria Francescana",
+    "città": "Modena",
+    "stelle": 3,
+    "cucina": ["italiana", "innovativa"],
+    "prezzo": 280
+  },
+  {
+    "nome": "Enoteca Pinchiorri",
+    "città": "Firenze",
+    "stelle": 3,
+    "cucina": ["italiana", "francese"],
+    "prezzo": 300
+  },
+  {
+    "nome": "Piazza Duomo",
+    "città": "Alba",
+    "stelle": 3,
+    "cucina": ["piemontese", "moderna"],
+    "prezzo": 260
+  },
+  {
+    "nome": "Le Calandre",
+    "città": "Rubano",
+    "stelle": 3,
+    "cucina": ["veneta", "sperimentale"],
+    "prezzo": 230
+  },
+  {
+    "nome": "Da Vittorio",
+    "città": "Bergamo",
+    "stelle": 3,
+    "cucina": ["lombarda", "pesce"],
+    "prezzo": 220
+  },
+  {
+    "nome": "Uliassi",
+    "città": "Senigallia",
+    "stelle": 3,
+    "cucina": ["marchigiana", "mare"],
+    "prezzo": 240
+  },
+  {
+    "nome": "Reale",
+    "città": "Castel di Sangro",
+    "stelle": 3,
+    "cucina": ["abruzzese", "contemporanea"],
+    "prezzo": 200
+  },
+  {
+    "nome": "St. Hubertus",
+    "città": "San Cassiano",
+    "stelle": 3,
+    "cucina": ["alpina", "gourmet"],
+    "prezzo": 210
+  },
+  {
+    "nome": "Dal Pescatore",
+    "città": "Canneto sull'Oglio",
+    "stelle": 3,
+    "cucina": ["mantovana", "tradizionale"],
+    "prezzo": 190
+  }
+]
